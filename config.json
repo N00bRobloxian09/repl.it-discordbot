@@ -1,0 +1,8 @@
+{
+  "token": "your-bot-token",
+  "prefix": "!", 
+  "activity": {
+    "streaming": false,
+    "game": "hi im a bot"
+  }
+}
